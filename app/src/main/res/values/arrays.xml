@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>anjing</item>
+        <item>ayam</item>
+        <item>anoa</item>
+        <item>babi</item>
+        <item>bebek</item>
+        <item>bangau</item>
+        <item>cicak</item>
+        <item>cucak ijo</item>
+        <item>cucak jenggot</item>
+        <item>dara</item>
+        <item>dugong</item>
+        <item>domba</item>
+        <item>elang</item>
+        <item>enggang</item>
+        <item>entog</item>
+        <item>flamingo</item>
+        <item>finch</item>
+        <item>gajah</item>
+        <item>gagak</item>
+        <item>garuda</item>
+        <item>harimau</item>
+        <item>hyena</item>
+        <item>hamster</item>
+        <item>ikan</item>
+        <item>impala</item>
+        <item>ibex alpen</item>
+        <item>jerapah</item>
+        <item>jangkrik</item>
+        <item>jongkangan</item>
+        <item>kakak tua</item>
+        <item>kangguru</item>
+        <item>kancil</item>
+        <item>lumba-lumba</item>
+        <item>lutung</item>
+        <item>laba-laba</item>
+        <item>musang</item>
+        <item>murai</item>
+        <item>merak</item>
+        <item>nyamuk</item>
+        <item>nila</item>
+        <item>nuri</item>
+        <item>orang utan</item>
+        <item>onta</item>
+        <item>erca</item>
+        <item>penyu</item>
+        <item>pinguin</item>
+        <item>panda</item>
+        <item>qiokka</item>
+        <item>quoll</item>
+        <item>quagga</item>
+        <item>rusa</item>
+        <item>rubah</item>
+        <item>rangkong</item>
+        <item>semut</item>
+        <item>siput</item>
+        <item>singa</item>
+        <item>tikus</item>
+        <item>tupai</item>
+        <item>tapir</item>
+        <item>ular</item>
+        <item>undur-undur</item>
+        <item>ubur-ubur</item>
+        <item>vole</item>
+        <item>viscacha</item>
+        <item>vikuna</item>
+        <item>wambi</item>
+        <item>walrus</item>
+        <item>walambi</item>
+        <item>xenarthra</item>
+        <item>xenops</item>
+        <item>x-ray tetra</item>
+        <item>yabby</item>
+        <item>yak</item>
+        <item>yellow ground squirrel</item>
+        <item>zebra</item>
+        <item>zebu</item>
+        <item>zorilla</item>
+    </string-array>
+</resources>
